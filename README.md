@@ -183,7 +183,7 @@ README.md
 
 * Verilog source code
 * Simulation waveforms
-* Project PPT
+* Project PPT(https://youtu.be/8UeNoex1TOg)
 * Demo video
 
 ---
