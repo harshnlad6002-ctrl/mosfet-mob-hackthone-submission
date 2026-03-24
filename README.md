@@ -189,5 +189,10 @@ README.md
 ---
 
 ## 👥 Team: The MOSFET Mob
+[Member Names]: 
+Harsh Lad
+Archit Langde
+Aryan Chaudhary
+Hrishikesh Dhume
 
 Developed for the **UNPLUGGED Hardware Hackathon**
